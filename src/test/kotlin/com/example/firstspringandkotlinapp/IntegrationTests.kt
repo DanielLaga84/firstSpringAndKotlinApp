@@ -27,7 +27,7 @@ class IntegrationTests(@Autowired val restTemplate: TestRestTemplate) {
     }
 
     @Test
-    fun `Assert article page title, content and status code`() {
+    fun `Assert article page title, contenet and status code`() {
         println(">> TODO")
     }
 
